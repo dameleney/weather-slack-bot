@@ -4,7 +4,7 @@ var http = require('http');
 
 var bot = controller.spawn({
 
-  token: "xoxb-239466680259-HnwPWFPjeA9QsHURG4hFRYnw"
+  token: "<private-token>"
 
 })
 
